@@ -1,4 +1,4 @@
-package access.ex;
+/*package access.ex;
 
 public class CounterMain {
     public static void main(String[] args) {
@@ -10,4 +10,4 @@ public class CounterMain {
         int count = counter.getCount();
         System.out.println(count);
     }
-}
+}*/
